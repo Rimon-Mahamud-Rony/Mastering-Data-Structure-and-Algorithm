@@ -1,0 +1,22 @@
+Topic:
+--------
+Program:
+
+A program is a set of instructions which performs operation on data.
+
+Physical data structure:
+
+How the data is arranged int the memory.
+>Arry
+>Matrics
+>Linked List
+
+Logical data structure:
+
+How the data shoud be utilized
+
+>stack
+>queue
+>trees
+>graph
+>Hasing
