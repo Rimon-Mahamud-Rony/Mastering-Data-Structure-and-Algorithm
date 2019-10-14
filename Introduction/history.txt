@@ -1,0 +1,22 @@
+
+  267  git init
+  268  git status
+  269  touch readme.md
+  270  ls
+  271  notepad readme.md 
+  272  git add readme.md 
+  273  git commit -m 'first commit'
+  274  git remote add origin https://github.com/Rimon-Mahamud-Rony/Mastering-Data-Structure-and-Algorithm.git
+  275  git push -u origin master
+  276  git status
+  277  git status
+  278  touch welcome.cpp
+  279  git add .
+  280  git push
+  281  git pull
+  282  git add welcome.cpp 
+  283  git commit -m 'welcome'
+  284  git status
+  285  git push
+  286  touch history.txt
+  287  history>>history.txt 
