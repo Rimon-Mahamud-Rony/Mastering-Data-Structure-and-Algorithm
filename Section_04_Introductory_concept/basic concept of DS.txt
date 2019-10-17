@@ -1,0 +1,6 @@
+>Stack
+>Heap
+>Physical vs logical data structure
+>ADT
+>Time complexity
+>Space complexity
