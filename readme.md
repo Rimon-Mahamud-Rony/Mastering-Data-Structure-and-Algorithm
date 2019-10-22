@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
+
 	<h1 style="text-align: center; color: green">Mastering Data Structure and Algorithm</h1> <hr>
 	<ul style="background-color: black; color:white; font-size: 28px;">
 		<li>
@@ -14,5 +9,3 @@
 		</li>
 
 	</ul>
-</body>
-</html>
